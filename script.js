@@ -17,7 +17,7 @@ const quizQuestions = [
     }
     
   ];
-  //score board
+  //scoreboard
   let currentQuestionIndex = 0;
   let score = 0;
   let timeLeft = 75; 
